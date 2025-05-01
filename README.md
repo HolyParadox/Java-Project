@@ -28,18 +28,4 @@ This project is a **Java-based GDPR compliance scanner** that checks websites fo
 
 Built by an autistic programmer with a love for deep systems thinking, this tool reflects an obsession with **data privacy**, **legal structure**, and **ethical technology**. It was used to quietly audit hundreds of German websites for GDPR readiness — long before mainstream tools existed.
 
-### 🗂 Folder Structure
-
-```
-📁 src/
-├── mainchecker.java       → Core logic and orchestration
-├── crawling.java          → Handles recursive site traversal
-├── subchecker.java        → Modular functions for SSL, analytics, AIP, etc.
-└── saveresult.java        → PDF/CSV/save/screenshot handler
-```
-
-> Note: This repo only includes the Java code. The PHP GUI and crawler are in a separate private repository.
-
----
-
-Would you like to include a sample screenshot or result log in the repo as well? I can help you create a `screenshots/` folder and update the README accordingly.
+ 
