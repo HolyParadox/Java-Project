@@ -28,4 +28,10 @@ This project is a **Java-based GDPR compliance scanner** that checks websites fo
 
 Built by an autistic programmer with a love for deep systems thinking, this tool reflects an obsession with **data privacy**, **legal structure**, and **ethical technology**. It was used to quietly audit hundreds of German websites for GDPR readiness — long before mainstream tools existed.
 
+disclaimer: that this tool is for educational or internal use only.
+
+ 
+
+
+
  
