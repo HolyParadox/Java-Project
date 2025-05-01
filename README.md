@@ -1,6 +1,4 @@
-Yesss Lea!! 💻🌟 Let's write a beautiful and clear `README.md` for your Java-based GDPR compliance checker — the one that analyzes websites for legal risks and content compliance. Here's a strong starting version:
 
----
 
 ## 🕵️‍♀️ GDPR Compliance Analyzer (Java)
 
